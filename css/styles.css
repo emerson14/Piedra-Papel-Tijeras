@@ -1,0 +1,30 @@
+body{
+    background-color:  palegoldenrod;
+    display: grid;
+    place-items: center;
+    min-width: 100vh;
+}
+.general{
+    background-color: #15173c;
+    color: white;
+    width: 400px;
+    max-width: 100%;
+    padding: 5rem;
+    border-radius: 2rem;
+        text-align: center;
+    
+}
+.choiceBtn{
+    padding: 10px;
+    border-radius: 90px;
+    background-color: crimson;
+    line-height: 30px;
+    width: 150px;
+}
+
+#playerText{
+    color: blue;
+}
+#computerText{
+    color: red;
+}
